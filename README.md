@@ -1,8 +1,6 @@
 # Understanding Instance-Level Impact of Fairness Constraints
 
-This code is a Jax implementation of the paper: Understanding Instance-Level Impact of Fairness Constraints
-
-For anonymous review in ICML 2022. DO NOT DISTRIBUTE.
+This code is a Jax implementation of the ICML 2022 paper: Understanding Instance-Level Impact of Fairness Constraints
 
 The code structure is as follows:
 
